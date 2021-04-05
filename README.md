@@ -16,7 +16,7 @@ In this application, we can press a key which reveals the JavaScript keyCode.
 
 ## Final Product
 
-![video sample of project](./attachments/Dad-Jokes-and-8-more-pages-Work.gif)
+![video sample of project](./attachments/bradtraversy-50projects50days-50.gif)
 
 ## Technologies
 
